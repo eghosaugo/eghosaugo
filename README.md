@@ -5,6 +5,7 @@ This project uses ARIMA Time Series forecast future trends in the COVID-19 case.
 
 
 OVERVIEW:
+
 •	Data Cleaning and Preprocessing: Handle missing values, outliers, skewness and inconsistencies in the dataset.
 
 •	Exploratory Data Analysis (EDA): Visualize trends, correlations, and distributions of key variables. 
